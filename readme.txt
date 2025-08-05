@@ -1,3 +1,4 @@
 Git is a version control system.
 Git is free software.
 distributed under the GPL license.
+this is three lines of text.
